@@ -2,8 +2,8 @@
 ## Orignal Study:
 
 Thompson, Philip R. et al. (2019). A Statistical Model for Frequency of Coastal Flooding in Honolulu, Hawaii, During the 21st Century. 124(4). https://doi.org/10.1029/2018jc014741
-Using: MATLAB 
-### Data: University of Hawai‘i Sea Level Center Fast Delivery database (http://uhslc.soest.hawaii.edu:80/opendap/fast/
+#### Using: MATLAB 
+#### Data: University of Hawai‘i Sea Level Center Fast Delivery database (http://uhslc.soest.hawaii.edu:80/opendap/fast/
 hourly/h057.nc)
 
 
@@ -11,9 +11,9 @@ hourly/h057.nc)
 ## Recreating: 
 Tidal Level Analysis & Modelling for Honolulu, Hawaii (2000-2024) for disaster mitigation & risk reduction strategies
 
-### Programming Language: Python (ver )
-### Software: Jupyter Notebook
-### Libraries used & version:
+#### Programming Language: Python (ver )
+#### Software: Jupyter Notebook
+#### Libraries used & version:
 
 
 ### Workflow:
@@ -25,7 +25,7 @@ Tidal Level Analysis & Modelling for Honolulu, Hawaii (2000-2024) for disaster m
       Water, MHHW: Mean High High Water
 
 #### 3. Data Preprocessing:
-   a) Checking for missing values
+a) Checking for missing values
    b) Imputation
    c) Transformation
    
