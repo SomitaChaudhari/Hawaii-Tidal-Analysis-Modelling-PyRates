@@ -8,7 +8,7 @@ Thompson, Philip R. et al. (2019). A Statistical Model for Frequency of Coastal 
 
 ## Recreating: 
 Tidal Level Analysis & Modelling for Honolulu, Hawaii (2000-2024) for disaster mitigation & risk reduction strategies
-
+[![DOI](https://zenodo.org/badge/810518524.svg)](https://zenodo.org/doi/10.5281/zenodo.11508504) 
 #### Programming Language: Python (ver )
 #### Software: Jupyter Notebook
 #### Libraries used & version:
