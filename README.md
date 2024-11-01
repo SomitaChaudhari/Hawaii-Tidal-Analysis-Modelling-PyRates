@@ -1,6 +1,6 @@
 
 # PyRates
-Title: # Forecasting Tidal Dynamics Across Hawaiian Islands: A Multivariate Time Series Analysis Using LSTM, Transformers, and Seasonal Models
+# Title: Forecasting Tidal Dynamics Across Hawaiian Islands: A Multivariate Time Series Analysis Using LSTM, Transformers, and Seasonal Models
 
 ## Orignal Study:
 
