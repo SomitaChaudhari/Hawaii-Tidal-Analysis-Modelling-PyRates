@@ -88,3 +88,13 @@ Data is sourced from NOAA's [Tides & Currents](https://tidesandcurrents.noaa.gov
 | Kawaihae    | August             | 3.51 ft (2030)              |
 | Nawiliwili  | August & December  | 2.98 ft (2030)              |
 
+
+## Installation
+
+To reproduce this project, you need to install the required Python libraries. All necessary dependencies are listed in the `requirements.txt` file. You can install them with the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
+
